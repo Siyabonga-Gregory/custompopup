@@ -98,7 +98,7 @@ export default class ModalV1 extends React.Component {
                 </Modal>
                 <Modal isOpen={this.state.modalAlert} toggle={this.toggleAlert}>
                     <ModalHeader toggle={this.toggleAlert}>Error</ModalHeader>
-                    <ModalBody>Please make sure all no fields are left empty</ModalBody>
+                    <ModalBody>Please make sure no fields are left empty</ModalBody>
                     <ModalFooter>
                         <Button onClick={this.toggleAlert}>OK</Button>
                     </ModalFooter>
