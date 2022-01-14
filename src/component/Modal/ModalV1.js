@@ -4,7 +4,6 @@ import { Modal, Form, ModalBody,ModalHeader,FormGroup, ModalFooter, Button,Label
 export default class ModalV1 extends React.Component {
     constructor(props) {
         super(props);
-
         this.state = {
             modalSignup: false,
             modalAlert: false,
@@ -12,7 +11,6 @@ export default class ModalV1 extends React.Component {
             surname:"",
             address:""
         }
-
         this.toggleSignup        = this.toggleSignup.bind(this)
         this.toggleAlert         = this.toggleAlert.bind(this)
         this.handleSubmit        = this.handleSubmit.bind(this)
@@ -103,7 +101,6 @@ export default class ModalV1 extends React.Component {
                         <Button onClick={this.toggleAlert}>OK</Button>
                     </ModalFooter>
                 </Modal>
-
             </React.Fragment>
         )
     }
