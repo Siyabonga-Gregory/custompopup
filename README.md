@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Basic modal
+
+If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
+
+Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
+
+❤️Manny thanks!❤️
+
+
+![Sign up form](https://user-images.githubusercontent.com/19228713/149518460-53cd4404-0b7e-4de3-abf9-490be8266578.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
